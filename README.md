@@ -3,7 +3,7 @@
     <img src="images/mux_logo_color.png" alt="Mux Logo" height="150">
 </a>
 </p>
-  <h1 align="center">Stream.new</h1>
+  <h1 align="center">Stream.newer</h1>
 <div align="center">
     <a href="https://github.com/muxinc/stream.new/stargazers"><img src="https://img.shields.io/github/stars/muxinc/stream.new" alt="Stars Badge"/></a>
     <a href="https://github.com/muxinc/stream.new/network/members"><img src="https://img.shields.io/github/forks/muxinc/stream.new" alt="Forks Badge"/></a>
